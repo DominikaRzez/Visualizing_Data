@@ -9,6 +9,7 @@ import psycopg2
 parser = configparser.ConfigParser()
 parser.read("credentials.conf")
 
+#Database set up
 host = parser.get("postgres_configuration","host")
 port = parser.get("postgres_configuration","port")
 database = parser.get("postgres_configuration","database")
@@ -28,12 +29,14 @@ cursor = conn.cursor()
 # Flask Setup
 app = Flask(__name__)
 
+#Landing page
 @app.route("/")
 def welcome():
     return (
         f"Welcome to the Stop and Search API!<br/>"
     )
 
+#Setting route to return list of ethnicities
 @app.route("/api/ethnicities")
 def ethnicity_by_city():
     cursor.execute("SELECT * FROM ethnicity_by_city")
@@ -51,6 +54,7 @@ def ethnicity_by_city():
 
     return jsonify(eth)
 
+#Setting route to return list of age ranges
 @app.route("/api/age")
 def age_by_city():
     cursor.execute("SELECT * FROM age_range_by_city")
@@ -68,6 +72,7 @@ def age_by_city():
 
     return jsonify(ages)
 
+#Setting route to return list of genders
 @app.route("/api/gender")
 def gender_by_city():
     cursor.execute("SELECT * FROM Male_Female_Split_by_City")
@@ -83,6 +88,7 @@ def gender_by_city():
 
     return jsonify(gender_split)
 
+#Setting route to return list of objects of searches
 @app.route("/api/search_object")
 def search_object_by_city():
     cursor.execute("SELECT * FROM object_of_search")
@@ -105,6 +111,29 @@ def search_object_by_city():
 
     return jsonify(search_reasons)
 
+#Setting route to return the geojson
+@app.route("/api/locations")
+def map():
+    cursor.execute("SELECT * FROM stop_and_search")
+    locations = cursor.fetchall()
+    map_geojson = []
+    geojson_dict = {}
+    geojson_dict["type"] = "Feature Collection"
+    geojson_dict["features"] = []
+    for location in locations:
+        features_dict = {}
+        features_dict["type"] = "Feature"
+        features_dict["properties"] = {
+        "City" : location[0],
+        "Object of search": location[5]
+        }
+        geojson_dict["features"].append(features_dict)
+        geometry = {}
+        geometry["type"] = "Point"
+        geometry["coordinates"] = location[6]
+        geojson_dict["features"].append(geometry)
+    map_geojson.append(geojson_dict)
+    return jsonify(map_geojson)
 
 if __name__ == "__main__":
     app.run(debug=True)
