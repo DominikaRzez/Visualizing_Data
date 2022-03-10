@@ -5,6 +5,7 @@ from sqlalchemy import create_engine, func, and_
 from flask import Flask, jsonify, render_template
 import configparser
 import psycopg2
+import ast
 
 parser = configparser.ConfigParser()
 parser.read("credentials.conf")
@@ -35,6 +36,10 @@ def welcome():
     return (
         f"Welcome to the Stop and Search API!<br/>"
     )
+
+@app.route("/maps")
+def maps():
+    return render_template("map.html")
 
 #Setting route to return list of ethnicities
 @app.route("/api/ethnicities")
@@ -116,24 +121,22 @@ def search_object_by_city():
 def map():
     cursor.execute("SELECT * FROM stop_and_search")
     locations = cursor.fetchall()
-    map_geojson = []
     geojson_dict = {}
-    geojson_dict["type"] = "Feature Collection"
     geojson_dict["features"] = []
     for location in locations:
         features_dict = {}
-        features_dict["type"] = "Feature"
+        features_dict["geometry"] = {
+            "type" : "Point",
+            "coordinates" : [float(ast.literal_eval("{"+location[6][-25:])["longitude"]), float(ast.literal_eval(location[6][:24]+"}")["latitude"])]
+        }
         features_dict["properties"] = {
         "City" : location[0],
-        "Object of search": location[5]
+        "Object_of_search": location[5]
         }
+        features_dict["type"] = "Feature"
         geojson_dict["features"].append(features_dict)
-        geometry = {}
-        geometry["type"] = "Point"
-        geometry["coordinates"] = location[6]
-        geojson_dict["features"].append(geometry)
-    map_geojson.append(geojson_dict)
-    return jsonify(map_geojson)
+    geojson_dict["type"] = "Feature Collection"
+    return jsonify(geojson_dict)
 
 if __name__ == "__main__":
     app.run(debug=True)
