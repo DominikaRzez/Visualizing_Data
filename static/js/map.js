@@ -18,7 +18,7 @@ function createMap(stop_and_search) {
 
   // Create the map object with options.
   var map = L.map('map', {
-    center: [53.4808, -2.2426],
+    center: [51.5072, -0.1276],
     zoom: 10,
     layers: [streetmap, stop_and_search]
   });

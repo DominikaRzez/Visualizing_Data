@@ -70,3 +70,15 @@ COUNT(*) as No_Of_SaS
 FROM stop_and_search
 GROUP BY country_name
 ORDER BY No_Of_SaS DESC);
+
+--Creating seperate table to hold only selected locations (100 per each city)
+CREATE TABLE selected_locations (
+	"country_name" VARCHAR,
+	"age_range" VARCHAR,
+	"self_defined_ethnicity" VARCHAR,
+	"gender" VARCHAR ,
+	"officer_defined_ethnicity" VARCHAR ,
+	"object_of_search" VARCHAR ,
+	"location" VARCHAR);
+	
+SELECT * FROM selected_locations;

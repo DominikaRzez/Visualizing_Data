@@ -119,7 +119,7 @@ def search_object_by_city():
 #Setting route to return the geojson
 @app.route("/api/locations")
 def map():
-    cursor.execute("SELECT * FROM stop_and_search")
+    cursor.execute("SELECT * FROM selected_locations")
     locations = cursor.fetchall()
     geojson_dict = {}
     geojson_dict["features"] = []
