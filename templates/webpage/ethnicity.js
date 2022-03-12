@@ -72,7 +72,7 @@ function CreateBarChart(city) {
                 },
         }};
     
-Plotly.newPlot("barchart", data, layout);
+Plotly.newPlot("chart", data, layout);
 }
 
 function optionChanged(cityName) {
