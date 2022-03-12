@@ -1,255 +1,128 @@
-,age_range,self_defined_ethnicity,gender,officer_defined_ethnicity,object_of_search
-0,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,18-24,Other ethnic group - Not stated,Male,Asian,Controlled drugs
-2,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-3,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-4,over 34,Asian/Asian British - Any other Asian background,Male,Asian,
-5,over 34,Other ethnic group - Not stated,Male,Other,Controlled drugs
-6,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-7,18-24,White - Any other White background,Male,White,Controlled drugs
-8,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-9,over 34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-10,25-34,White - Any other White background,Male,White,
-11,10-17,White - Any other White background,Male,White,Controlled drugs
-12,10-17,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-13,25-34,Asian/Asian British - Indian,Male,Asian,Controlled drugs
-14,25-34,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-15,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-16,25-34,Black/African/Caribbean/Black British - African,Male,Black,Article for use in theft
-17,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods
-18,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods
-19,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-20,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-21,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,
-22,10-17,Black/African/Caribbean/Black British - Caribbean,Male,Black,Offensive weapons
-23,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-24,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-25,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-26,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-27,over 34,Other ethnic group - Not stated,Female,White,Article for use in theft
-28,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-29,over 34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,
-30,,Other ethnic group - Not stated,Male,White,Controlled drugs
-31,over 34,Other ethnic group - Not stated,Female,White,Article for use in theft
-32,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-33,over 34,Other ethnic group - Not stated,Male,White,Article for use in theft
-34,25-34,Other ethnic group - Not stated,Male,White,Article for use in theft
-35,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-36,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-37,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Firearms
-38,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Firearms
-39,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-40,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-41,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-42,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-43,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-44,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-45,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-46,,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,White,Controlled drugs
-47,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-48,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage
-49,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-50,25-34,Other ethnic group - Not stated,Male,White,Controlled drugs
-51,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-52,25-34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Male,Black,
-53,over 34,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs
-54,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-55,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-56,,Other ethnic group - Not stated,,,Controlled drugs
-57,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-0,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-2,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-3,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-4,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-5,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-6,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-7,,Black/African/Caribbean/Black British - Caribbean,Male,Black,Controlled drugs
-8,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-9,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Offensive weapons
-10,25-34,Asian/Asian British - Indian,Female,Asian,Controlled drugs
-11,over 34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,,Offensive weapons
-12,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-13,over 34,Asian/Asian British - Any other Asian background,Male,Asian,
-14,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,Asian,Controlled drugs
-15,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-16,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-17,10-17,Asian/Asian British - Any other Asian background,Male,Asian,Offensive weapons
-18,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-19,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,Asian,Controlled drugs
-20,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods
-21,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-22,18-24,Asian/Asian British - Bangladeshi,Male,Asian,Controlled drugs
-23,25-34,Other ethnic group - Not stated,Male,White,
-24,25-34,White - Any other White background,Male,White,Offensive weapons
-25,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-26,,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-27,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-28,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-29,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-30,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-31,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-32,25-34,Black/African/Caribbean/Black British - Caribbean,Male,,Article for use in theft
-33,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-34,25-34,Black/African/Caribbean/Black British - African,Male,Black,Controlled drugs
-35,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-36,,Other ethnic group - Not stated,Male,White,Controlled drugs
-37,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,Black,
-38,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-39,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-40,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Male,Black,Controlled drugs
-41,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-42,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-43,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-44,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-45,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-46,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-47,25-34,Other ethnic group - Not stated,Male,White,Controlled drugs
-0,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,18-24,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Male,Black,Controlled drugs
-2,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-3,over 34,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-4,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-5,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-6,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-7,25-34,Black/African/Caribbean/Black British - African,Male,Black,Controlled drugs
-8,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-9,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-10,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-11,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-12,10-17,Black/African/Caribbean/Black British - African,Male,Black,Offensive weapons
-13,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-14,,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-15,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs
-16,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-17,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-18,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-19,18-24,Other ethnic group - Not stated,Male,Asian,Article for use in theft
-20,18-24,Asian/Asian British - Indian,Male,Asian,Offensive weapons
-21,10-17,Other ethnic group - Not stated,Female,White,Article for use in theft
-22,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-23,25-34,Other ethnic group - Not stated,Male,Asian,Controlled drugs
-24,25-34,Other ethnic group - Not stated,Male,Black,Offensive weapons
-25,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs
-26,,Other ethnic group - Not stated,Male,Black,Controlled drugs
-27,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-28,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,Asian,Offensive weapons
-29,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-30,over 34,White - Any other White background,Male,White,Article for use in theft
-31,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-32,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-33,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-34,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-35,10-17,Black/African/Caribbean/Black British - African,Male,Black,Controlled drugs
-36,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-37,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods
-38,18-24,Black/African/Caribbean/Black British - African,Male,White,Controlled drugs
-0,10-17,Other ethnic group - Not stated,Male,,Controlled drugs
-1,10-17,Black/African/Caribbean/Black British - African,Male,Black,Controlled drugs
-2,10-17,Black/African/Caribbean/Black British - African,Male,Asian,Controlled drugs
-3,25-34,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs
-4,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-5,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-6,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-7,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-8,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-9,,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-10,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-11,over 34,White - Any other White background,Male,White,Article for use in theft
-12,18-24,Mixed/Multiple ethnic groups - White and Asian,Male,Asian,Controlled drugs
-13,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Male,White,Controlled drugs
-14,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-15,18-24,Black/African/Caribbean/Black British - African,Female,Black,Offensive weapons
-16,18-24,Black/African/Caribbean/Black British - African,Male,Black,Controlled drugs
-17,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-18,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-19,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-20,over 34,Black/African/Caribbean/Black British - African,Male,Black,
-21,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-22,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-23,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-24,25-34,Mixed/Multiple ethnic groups - Any other Mixed/Multiple ethnic background,Male,Black,Offensive weapons
-25,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-26,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Asian,
-27,25-34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,
-28,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-29,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,,Controlled drugs
-30,10-17,Mixed/Multiple ethnic groups - White and Black African,Male,Black,
-31,18-24,White - Any other White background,Male,White,Controlled drugs
-32,,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-33,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-34,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods
-35,18-24,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs
-36,over 34,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs
-37,over 34,White - Any other White background,Male,White,Article for use in theft
-38,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-39,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,Black,Offensive weapons
-40,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs
-41,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Offensive weapons
-42,18-24,Other ethnic group - Not stated,Male,Black,Offensive weapons
-43,,Other ethnic group - Not stated,Male,Black,Offensive weapons
-44,25-34,Asian/Asian British - Pakistani,Male,,
-45,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage
-46,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-47,18-24,Other ethnic group - Not stated,Male,White,Controlled drugs
-48,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-49,25-34,White - Any other White background,Female,White,Controlled drugs
-50,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-51,over 34,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-52,over 34,Other ethnic group - Any other ethnic group,Male,Asian,Controlled drugs
-53,25-34,Other ethnic group - Not stated,Male,,
-0,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,25-34,Black/African/Caribbean/Black British - Caribbean,Male,Black,Controlled drugs
-2,over 34,White - English/Welsh/Scottish/Northern Irish/British,,White,Controlled drugs
-3,10-17,Mixed/Multiple ethnic groups - White and Black African,Male,Black,Controlled drugs
-4,10-17,Other ethnic group - Not stated,Male,White,Controlled drugs
-5,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-6,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-7,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,
-8,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs
-9,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods
-10,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs
-11,18-24,Other ethnic group - Not stated,Male,Asian,Controlled drugs
-12,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,White,Article for use in theft
-13,18-24,White - Any other White background,Male,White,Controlled drugs
-14,25-34,White - Any other White background,Male,White,Controlled drugs
-15,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-16,10-17,Other ethnic group - Not stated,Male,Black,Offensive weapons
-17,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Offensive weapons
-18,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-19,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-20,18-24,Mixed/Multiple ethnic groups - White and Black Caribbean,Male,Black,Controlled drugs
-21,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-22,10-17,Other ethnic group - Not stated,Male,White,Controlled drugs
-23,,Other ethnic group - Not stated,,,Controlled drugs
-24,25-34,Other ethnic group - Any other ethnic group,Male,White,Controlled drugs
-25,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-26,18-24,Other ethnic group - Not stated,Male,Other,
-27,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-28,over 34,White - Any other White background,Male,White,Article for use in theft
-29,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage
-30,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft
-31,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-32,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-33,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-34,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-35,,Other ethnic group - Not stated,,,Controlled drugs
-36,25-34,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-37,,Other ethnic group - Not stated,Female,Asian,
-38,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Female,,
-39,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,
-40,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-41,25-34,Other ethnic group - Not stated,Male,Black,Controlled drugs
-42,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Firearms
-43,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
-44,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Offensive weapons
-45,over 34,White - Any other White background,Male,White,Controlled drugs
-46,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-47,25-34,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs
-48,18-24,Asian/Asian British - Any other Asian background,Male,Other,Controlled drugs
-49,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-50,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-51,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-52,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-53,18-24,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Controlled drugs
-54,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons
+country,age_range,self_defined_ethnicity,gender,officer_defined_ethnicity,object_of_search,location
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,over 34,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs,"{'latitude': '51.324810', 'street': {'id': 1153986, 'name': 'On or near Kilrush Terrace'}, 'longitude': '-0.544863'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.319841', 'street': {'id': 1153860, 'name': 'On or near Theatre/Concert Hall'}, 'longitude': '-0.561868'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,,Other ethnic group - Not stated,,,Stolen goods,"{'latitude': '51.304046', 'street': {'id': 1152867, 'name': 'On or near Gloster Road'}, 'longitude': '-0.547657'}"
+surrey,18-24,Other ethnic group - Not stated,Male,,Controlled drugs,"{'latitude': '51.307247', 'street': {'id': 1152810, 'name': 'On or near Howards Close'}, 'longitude': '-0.552032'}"
+surrey,18-24,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '51.307247', 'street': {'id': 1152810, 'name': 'On or near Howards Close'}, 'longitude': '-0.552032'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.319841', 'street': {'id': 1153860, 'name': 'On or near Theatre/Concert Hall'}, 'longitude': '-0.561868'}"
+surrey,18-24,Other ethnic group - Not stated,Male,Black,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,18-24,Other ethnic group - Not stated,Male,Asian,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.322301', 'street': {'id': 1153814, 'name': 'On or near Victoria Way'}, 'longitude': '-0.555749'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods,"{'latitude': '51.319841', 'street': {'id': 1153860, 'name': 'On or near Theatre/Concert Hall'}, 'longitude': '-0.561868'}"
+surrey,18-24,Other ethnic group - Not stated,Male,White,Controlled drugs,"{'latitude': '51.318138', 'street': {'id': 1153888, 'name': 'On or near Church Street West'}, 'longitude': '-0.562351'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.319898', 'street': {'id': 1153807, 'name': 'On or near Commercial Way'}, 'longitude': '-0.557001'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.319317', 'street': {'id': 1153798, 'name': 'On or near Shopping Area'}, 'longitude': '-0.558770'}"
+surrey,,Other ethnic group - Not stated,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.320818', 'street': {'id': 1153808, 'name': 'On or near Christchurch Way'}, 'longitude': '-0.557948'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,Other ethnic group - Not stated,Male,Asian,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,,Other ethnic group - Not stated,Male,White,Controlled drugs,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321686', 'street': {'id': 1153799, 'name': 'On or near Pedestrian Subway'}, 'longitude': '-0.557648'}"
+surrey,over 34,Asian/Asian British - Pakistani,Male,Asian,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,Mixed/Multiple ethnic groups - White and Asian,Male,Asian,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,Other ethnic group - Not stated,Male,Black,Evidence of offences under the Act,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,Asian/Asian British - Pakistani,Female,Asian,Anything to threaten or harm anyone,"{'latitude': '51.307689', 'street': {'id': 1152942, 'name': 'On or near Wych Hill Lane'}, 'longitude': '-0.560124'}"
+surrey,over 34,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '51.321492', 'street': {'id': 1153819, 'name': 'On or near Parking Area'}, 'longitude': '-0.560854'}"
+surrey,over 34,White - Irish,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.320690', 'street': {'id': 1153811, 'name': 'On or near Chobham Road'}, 'longitude': '-0.557048'}"
+surrey,over 34,Other ethnic group - Not stated,Male,Asian,Article for use in theft,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft,"{'latitude': '51.314197', 'street': {'id': 1153879, 'name': 'On or near Julian Close'}, 'longitude': '-0.575374'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321678', 'street': {'id': 1153810, 'name': 'On or near Chobham Road'}, 'longitude': '-0.558395'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,over 34,White - Any other White background,Male,White,Stolen goods,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321492', 'street': {'id': 1153819, 'name': 'On or near Parking Area'}, 'longitude': '-0.560854'}"
+surrey,10-17,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs,"{'latitude': '51.325318', 'street': {'id': 1153974, 'name': 'On or near Omega Road'}, 'longitude': '-0.547330'}"
+surrey,18-24,Other ethnic group - Not stated,Male,White,Controlled drugs,"{'latitude': '51.317957', 'street': {'id': 1153902, 'name': 'On or near Station Approach'}, 'longitude': '-0.556373'}"
+surrey,over 34,White - Irish,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Anything to threaten or harm anyone,"{'latitude': '51.319464', 'street': {'id': 1153963, 'name': 'On or near The Broadway'}, 'longitude': '-0.555364'}"
+surrey,25-34,Other ethnic group - Not stated,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.321678', 'street': {'id': 1153810, 'name': 'On or near Chobham Road'}, 'longitude': '-0.558395'}"
+surrey,25-34,Other ethnic group - Any other ethnic group,Male,,Controlled drugs,"{'latitude': '51.324000', 'street': {'id': 1153806, 'name': 'On or near Ferndale Road'}, 'longitude': '-0.557877'}"
+surrey,18-24,Other ethnic group - Not stated,Male,Black,Article for use in theft,"{'latitude': '51.316980', 'street': {'id': 1153792, 'name': 'On or near Caradon Close'}, 'longitude': '-0.581645'}"
+surrey,over 34,Other ethnic group - Not stated,Male,White,Stolen goods,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Anything to threaten or harm anyone,"{'latitude': '51.319464', 'street': {'id': 1153963, 'name': 'On or near The Broadway'}, 'longitude': '-0.555364'}"
+surrey,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Anything to threaten or harm anyone,"{'latitude': '51.319464', 'street': {'id': 1153963, 'name': 'On or near The Broadway'}, 'longitude': '-0.555364'}"
+surrey,25-34,Other ethnic group - Any other ethnic group,Female,White,Controlled drugs,"{'latitude': '51.316852', 'street': {'id': 1153920, 'name': 'On or near Heathside Crescent'}, 'longitude': '-0.557240'}"
+surrey,18-24,Other ethnic group - Not stated,,Black,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,over 34,Other ethnic group - Any other ethnic group,Male,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Anything to threaten or harm anyone,"{'latitude': '51.317957', 'street': {'id': 1153902, 'name': 'On or near Station Approach'}, 'longitude': '-0.556373'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.317957', 'street': {'id': 1153902, 'name': 'On or near Station Approach'}, 'longitude': '-0.556373'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.324730', 'street': {'id': 1153976, 'name': 'On or near Molloy Court'}, 'longitude': '-0.549286'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.315692', 'street': {'id': 1153919, 'name': 'On or near Heathside Road'}, 'longitude': '-0.557233'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.312379', 'street': {'id': 1152943, 'name': 'On or near Woodlands'}, 'longitude': '-0.559776'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,under 10,White - Any other White background,Female,White,Controlled drugs,"{'latitude': '51.312379', 'street': {'id': 1152943, 'name': 'On or near Woodlands'}, 'longitude': '-0.559776'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.325763', 'street': {'id': 1154047, 'name': 'On or near Boundary Road'}, 'longitude': '-0.549181'}"
+surrey,18-24,White - Any other White background,Male,White,Article for use in theft,"{'latitude': '51.316072', 'street': {'id': 1153925, 'name': 'On or near Supermarket'}, 'longitude': '-0.559618'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.305358', 'street': {'id': 1152974, 'name': 'On or near Ash Road'}, 'longitude': '-0.566552'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320831', 'street': {'id': 1153669, 'name': 'On or near Well Close'}, 'longitude': '-0.577436'}"
+surrey,over 34,Other ethnic group - Not stated,Male,Asian,Offensive weapons,"{'latitude': '51.312834', 'street': {'id': 1152919, 'name': 'On or near Erica Court'}, 'longitude': '-0.569806'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.324730', 'street': {'id': 1153976, 'name': 'On or near Molloy Court'}, 'longitude': '-0.549286'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.317957', 'street': {'id': 1153902, 'name': 'On or near Station Approach'}, 'longitude': '-0.556373'}"
+surrey,over 34,Other ethnic group - Any other ethnic group,Male,White,Stolen goods,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,over 34,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Offensive weapons,"{'latitude': '51.318566', 'street': {'id': 1153907, 'name': 'On or near Pedestrian Subway'}, 'longitude': '-0.556928'}"
+surrey,18-24,White - Any other White background,Female,White,Article for use in theft,"{'latitude': '51.316072', 'street': {'id': 1153925, 'name': 'On or near Supermarket'}, 'longitude': '-0.559618'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,10-17,Mixed/Multiple ethnic groups - White and Black Caribbean,Male,Black,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.324047', 'street': {'id': 1153861, 'name': 'On or near Supermarket'}, 'longitude': '-0.574165'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.303131', 'street': {'id': 1152958, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.557297'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft,"{'latitude': '51.319317', 'street': {'id': 1153798, 'name': 'On or near Shopping Area'}, 'longitude': '-0.558770'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Article for use in theft,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.303131', 'street': {'id': 1152958, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.557297'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.303131', 'street': {'id': 1152958, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.557297'}"
+surrey,18-24,Black/African/Caribbean/Black British - African,Male,Black,Offensive weapons,"{'latitude': '51.319464', 'street': {'id': 1153963, 'name': 'On or near The Broadway'}, 'longitude': '-0.555364'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,over 34,Other ethnic group - Not stated,Male,Black,Articles for use in criminal damage,"{'latitude': '51.326902', 'street': {'id': 1155399, 'name': 'On or near Church Road'}, 'longitude': '-0.564259'}"
+surrey,18-24,White - Any other White background,Female,White,Controlled drugs,"{'latitude': '51.321958', 'street': {'id': 1153680, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.579855'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.303131', 'street': {'id': 1152958, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.557297'}"
+surrey,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Offensive weapons,"{'latitude': '51.308070', 'street': {'id': 1152812, 'name': 'On or near Elmbridge Lane'}, 'longitude': '-0.553082'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.303131', 'street': {'id': 1152958, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.557297'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,10-17,Black/African/Caribbean/Black British - Any other Black/African/Caribbean background,Male,Black,Anything to threaten or harm anyone,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,,White,Controlled drugs,"{'latitude': '51.318600', 'street': {'id': 1488198, 'name': 'Woking (Station)'}, 'longitude': '-0.557111'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.320654', 'street': {'id': 1153858, 'name': 'On or near Brewery Road'}, 'longitude': '-0.564411'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Firearms,"{'latitude': '51.322486', 'street': {'id': 1154001, 'name': 'On or near Chertsey Road'}, 'longitude': '-0.553978'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.308842', 'street': {'id': 1152818, 'name': 'On or near Sports/Recreation Area'}, 'longitude': '-0.540691'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.316072', 'street': {'id': 1153925, 'name': 'On or near Supermarket'}, 'longitude': '-0.559618'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,,White,Firearms,"{'latitude': '51.324730', 'street': {'id': 1153976, 'name': 'On or near Molloy Court'}, 'longitude': '-0.549286'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.314154', 'street': {'id': 1153873, 'name': 'On or near Montgomery Road'}, 'longitude': '-0.561572'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.320654', 'street': {'id': 1153858, 'name': 'On or near Brewery Road'}, 'longitude': '-0.564411'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.324240', 'street': {'id': 1153998, 'name': 'On or near Chertsey Road'}, 'longitude': '-0.552516'}"
+surrey,10-17,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '51.319777', 'street': {'id': 1144801, 'name': 'On or near Horsell Moor'}, 'longitude': '-0.566950'}"
+surrey,10-17,Other ethnic group - Not stated,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Articles for use in criminal damage,"{'latitude': '51.307689', 'street': {'id': 1152942, 'name': 'On or near Wych Hill Lane'}, 'longitude': '-0.560124'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.308070', 'street': {'id': 1152812, 'name': 'On or near Elmbridge Lane'}, 'longitude': '-0.553082'}"
+surrey,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.317957', 'street': {'id': 1153902, 'name': 'On or near Station Approach'}, 'longitude': '-0.556373'}"
+surrey,25-34,Black/African/Caribbean/Black British - Caribbean,Male,Black,Anything to threaten or harm anyone,"{'latitude': '51.317755', 'street': {'id': 1153867, 'name': 'On or near Wilbury Road'}, 'longitude': '-0.566998'}"
+surrey,18-24,Asian/Asian British - Any other Asian background,Male,Asian,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.320735', 'street': {'id': 1153804, 'name': 'On or near Victoria Way'}, 'longitude': '-0.560735'}"
+surrey,18-24,Other ethnic group - Not stated,Female,White,Stolen goods,"{'latitude': '51.321265', 'street': {'id': 1153989, 'name': 'On or near Grove Road'}, 'longitude': '-0.552653'}"
+surrey,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods,"{'latitude': '51.321265', 'street': {'id': 1153989, 'name': 'On or near Grove Road'}, 'longitude': '-0.552653'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '51.324240', 'street': {'id': 1153998, 'name': 'On or near Chertsey Road'}, 'longitude': '-0.552516'}"
+surrey,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"
+surrey,over 34,Other ethnic group - Not stated,Male,White,Anything to threaten or harm anyone,"{'latitude': '51.320786', 'street': {'id': 1153802, 'name': 'On or near West Street'}, 'longitude': '-0.558279'}"
+surrey,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Offensive weapons,"{'latitude': '51.310478', 'street': {'id': 1152941, 'name': 'On or near Parking Area'}, 'longitude': '-0.558760'}"
+surrey,18-24,Other ethnic group - Not stated,Male,,Controlled drugs,"{'latitude': '51.321290', 'street': {'id': 1153803, 'name': 'On or near Victoria Way'}, 'longitude': '-0.559067'}"

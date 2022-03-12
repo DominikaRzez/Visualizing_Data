@@ -1,22 +1,22 @@
-,age_range,self_defined_ethnicity,gender,officer_defined_ethnicity,object_of_search
-0,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-0,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-1,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-2,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-3,25-34,White - Any other White background,Male,White,Controlled drugs
-4,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-5,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone
-0,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods
-1,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods
-2,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-3,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone
-4,25-34,White - Any other White background,Male,White,Controlled drugs
-0,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone
-1,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-2,25-34,White - Any other White background,Male,White,Controlled drugs
-3,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-4,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs
-0,,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs
-1,25-34,Asian/Asian British - Bangladeshi,Male,Asian,Controlled drugs
-2,25-34,White - Any other White background,Male,White,Controlled drugs
+country,age_range,self_defined_ethnicity,gender,officer_defined_ethnicity,object_of_search,location
+edinburgh,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,10-17,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Stolen goods,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Stolen goods,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Anything to threaten or harm anyone,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,18-24,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,18-24,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,over 34,White - English/Welsh/Scottish/Northern Irish/British,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,,White - English/Welsh/Scottish/Northern Irish/British,Female,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,Asian/Asian British - Bangladeshi,Male,Asian,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
+edinburgh,25-34,White - Any other White background,Male,White,Controlled drugs,"{'latitude': '55.952496', 'street': {'id': 1489701, 'name': 'Edinburgh Waverley (Station)'}, 'longitude': '-3.188535'}"
