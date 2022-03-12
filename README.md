@@ -12,3 +12,10 @@ There is already known data from gov.uk that states between April 2019 and March
 Looking into the data of police stop and searches in major cities in the UK may bring to light biases within this practice. Using data from the police stop and search API, we will be looking to identify trends throughout different cities regarding those stopped and searched. What is the average or most common profile of a person likely to be stopped and searched and does that differ between cities?
 
 We will be looking specifically at the ethnicity, gender, age and object of search (reason for stop), to discover whether there are certain biases or trends within this data.
+
+
+![birm_eth](https://user-images.githubusercontent.com/88689661/157975289-f70b5c42-909f-453c-b4d9-13edaa41cd2c.png)
+![birm_obj](https://user-images.githubusercontent.com/88689661/157975301-4ee376e3-216c-4a6e-8366-c87a3d33bb5d.png)
+
+
+These are the graphs pertaining to object of search(reason for stop) and ethnicity.
