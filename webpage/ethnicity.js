@@ -73,7 +73,7 @@ function CreateBarChart(city) {
         }};
     
 Plotly.newPlot("barchart", data, layout);
-
+}
 
 function optionChanged(cityName) {
     console.log(cityName);
