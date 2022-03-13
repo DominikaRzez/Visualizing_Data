@@ -33,13 +33,15 @@ app = Flask(__name__)
 #Landing page
 @app.route("/")
 def welcome():
-    return (
-        f"Welcome to the Stop and Search API!<br/>"
-    )
+    return render_template("index.html")
 
 @app.route("/maps")
 def maps():
     return render_template("map.html")
+
+@app.route("/dashboard")
+def dashboard():
+    return render_template("dashboard.html")
 
 #Setting route to return list of ethnicities
 @app.route("/api/ethnicities")
