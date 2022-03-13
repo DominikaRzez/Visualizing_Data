@@ -82,3 +82,20 @@ CREATE TABLE selected_locations (
 	"location" VARCHAR);
 	
 SELECT * FROM selected_locations;
+
+--Creating metadata view to hold all the data for each city by joining previous views
+CREATE VIEW combines AS
+SELECT e.country_name, e.black, e.other, e.white, e.asian, s.male_sas, s.females_sas
+FROM ethnicity_by_city AS e
+INNER JOIN male_female_split_by_city AS s ON
+e.country_name = s.country_name;
+
+CREATE VIEW metadata AS
+SELECT e.country_name, e.black, e.other, e.white, e.asian, e.male_sas, e.females_sas, 
+o.stolen_goods, o.threat, o.controlled_drugs, o.offensive_weapons, o.offences,
+o.firearms, o.psychoactive_substances, o.criminal_damage, o.theft, o.fireworks
+FROM combines AS e
+INNER JOIN object_of_search AS o ON
+e.country_name = o.country_name;
+
+SELECT * FROM metadata;

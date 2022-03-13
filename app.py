@@ -43,22 +43,35 @@ def maps():
 def dashboard():
     return render_template("dashboard.html")
 
+@app.route("/api/metadata")
+def metadata_by_city():
+    cursor.execute("SELECT * FROM metadata")
+    rows = cursor.fetchall()
+    allData = {}
+    for row in rows:
+        allData[row[0]]={
+            "ethnicities": ["black", "white", "asian", "other"],
+            "ethcount": [row[1], row[3], row[4], row[2]],
+            "Crimes": ["Anything to threaten or harm anyone", "Articles for use in criminal damage", 
+                "Articles for use in theft", "Controlled drugs", "Evidence of offences under the Act", 
+                "Firearms", "Fireworks", "Offensive weapons", "Psychoactive substances", "Stolen Goods"],
+            "CrimeCount": [row[8], row[14], row[15], row[9], row[11], row[12], row[16], row[10], row[13], row[7]],
+               "Sex": ["Male", "Female"],
+            "PopCount": [row[5], row[6]],
+        }
+    return jsonify(allData)
+
 #Setting route to return list of ethnicities
 @app.route("/api/ethnicities")
 def ethnicity_by_city():
     cursor.execute("SELECT * FROM ethnicity_by_city")
     rows = cursor.fetchall()
-    eth=[]
+    eth = {}
     for row in rows:
-        eth_dict={}
-        eth_dict["City"] = row[0]
-        eth_dict["Black"] = row[1]
-        eth_dict["Other"] = row[2]
-        eth_dict["White"] = row[3]
-        eth_dict["Asian"] = row[4]
-        eth_dict["Total Number of Stops and Searches"] = row[5]
-        eth.append(eth_dict)
-
+        eth[row[0]]={
+            "ethnicities": ["black", "white", "asian", "other"],
+            "ethcount": [row[1], row[3], row[4], row[2]],
+        }
     return jsonify(eth)
 
 #Setting route to return list of age ranges
@@ -84,15 +97,13 @@ def age_by_city():
 def gender_by_city():
     cursor.execute("SELECT * FROM Male_Female_Split_by_City")
     genders = cursor.fetchall()
-    gender_split = []
+    gender_split = {}
     for gender in genders:
-        gender_dict={}
-        gender_dict["City"] = gender[0]
-        gender_dict["Male"] = gender[1]
-        gender_dict["Female"] = gender[2]
-        gender_dict["Total Number of Stops and Searches"] = gender[3]
-        gender_split.append(gender_dict)
-
+        gender_split[gender[0]]={
+            "Sex": ["Male", "Female"],
+            "PopCount": [gender[1], gender[2]],
+            "TotalStops": gender[3]
+        }
     return jsonify(gender_split)
 
 #Setting route to return list of objects of searches
@@ -100,22 +111,15 @@ def gender_by_city():
 def search_object_by_city():
     cursor.execute("SELECT * FROM object_of_search")
     search_object = cursor.fetchall()
-    search_reasons = []
+    search_reasons = {}
     for object in search_object:
-        object_dict={}
-        object_dict["City"] = object[0]
-        object_dict["Stolen Goods"] = object[1]
-        object_dict["Anything to threaten or harm anyone"] = object[2]
-        object_dict["Controlled drugs"] = object[3]
-        object_dict["Offensive weapons"] = object[4]
-        object_dict["Evidence of offences under the Act"] = object[5]
-        object_dict["Firearms"] = object[6]
-        object_dict["Psychoactive substances"] = object[7]
-        object_dict["Articles for use in criminal damage"] = object[8]
-        object_dict["Articles for use in theft"] = object[9]
-        object_dict["Fireworks"] = object[10]
-        search_reasons.append(object_dict)
-
+        search_reasons[object[0]] = {
+            "Crimes": ["Anything to threaten or harm anyone", "Articles for use in criminal damage", 
+                "Articles for use in theft", "Controlled drugs", "Evidence of offences under the Act", 
+                "Firearms", "Fireworks", "Offensive weapons", "Psychoactive substances", "Stolen Goods"],
+            "CrimeCount": [object[2], object[8], object[9], object[3], object[5], object[6], object[10],
+               object[4], object[7], object[1]]
+        }
     return jsonify(search_reasons)
 
 #Setting route to return the geojson

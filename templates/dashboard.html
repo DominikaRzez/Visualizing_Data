@@ -1,71 +1,80 @@
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <title>Stop and Search in the UK</title>
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-</head>
-
+<html>
+  <head>
+      <script src="https://cdn.plot.ly/plotly-2.9.0.min.js"></script>
+      <script src= "https://d3js.org/d3.v4.min.js"> </script>
+      <meta charset="UTF-8">
+      <title>Stop and Search in the UK</title>
+      <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../static/css/style.css">
+  </head>
 <body>
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="/">Stop and Search in the UK</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
-        </button>
-    
-        <div class="collapse navbar-collapse" id="navbarSupportedContent">
-          <ul class="navbar-nav mr-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
-            </li>
-            <li class="nav-item active">
-              <a class="nav-link" href="/maps">Map <span class="sr-only">(current)</span></a>
-            </li>
-          </ul>
-        </div>
-      </nav>
-
-  <div class="container">
-    <div class="row">
-      <div class="col-md-12 jumbotron text-center">
-        <h1>Stop and Searches Dashboard</h1>
-        <p>Use the interactive charts below to explore the dataset</p>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-2">
-        <div class="well">
-          <h5>Select City:</h5>
-          <select id="selDataset" onchange="optionChanged(this.value)">
-            <option value="Edinburgh">Edinburgh</option>
-            <option value="Birmingham">Birmingham</option>
-            <option value="London">London</option>
-            <option value="Liverpool">Liverpool</option>
-            <option value="Manchester">Manchester</option>
-            <option value="Surrey">Surrey</option>
-        </select>
-        </div>
-      </div>
-      <div class="col-md-5">
-        <div id="bar"></div>
-      </div>
-      <div class="col-md-5">
-        <div id="piechart"></div>
-      </div>
-    </div>
-    <div class="row">
-      <div class="col-md-12">
-        <div id="bar2"></div>
-      </div>
-    </div>
-  </div>
-
-  <script src="https://d3js.org/d3.v5.min.js"></script>
-  <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
-  <script src="../static/js/dashboard.js"></script>
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <a class="navbar-brand" href="/">Stop and Search in the UK</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
   
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/">Home <span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/maps">Map <span class="sr-only">(current)</span></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+          <h1>Stop and Searches Dashboard</h1>
+          <p>Use the interactive charts below to explore the dataset</p>
+      </div>
+  </div>
+</div>
+  
+<div class="container">
+     <h2>Please select a City</h2>
+          <select id="selDataset" onchange="optionChanged(this.value)">
+              <option value="edinburgh">Edinburgh</option>
+              <option value="Birmingham">Birmingham</option>
+              <option value="london">London</option>
+              <option value="liverpool">Liverpool</option>
+              <option value="manchester">Manchester</option>
+              <option value="surrey">Surrey</option> 
+          </select>
+</div>
+   
+<div class="graphs">
+  <div class="row">
+      <div class="col-md-6">
+          <div id="bar"></div>
+      </div>
+      <div class="col-md-6">
+          <div id="piechart"></div>
+      </div>
+  </div>
+  <div class="row">
+      <div class="col-md-12">
+          <div id="bar2"></div>
+      </div>
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+      <div class="col-md-12 jumbotron text-center">
+          <p><a href="/maps">See an interactive map</a></p>
+      </div>
+  </div>
+</div>
+
+<script src="../static/js/interactive_dashboard.js"></script>
+
 </body>
 
 </html>
